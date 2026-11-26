@@ -1,0 +1,44 @@
+# user additions (zapret hostlist)
+# --- Telegram ---
+telegram.org
+telegram.me
+telegram.dog
+telegra.ph
+telesco.pe
+tdesktop.com
+telegram-cdn.org
+tg.dev
+# --- Meta ---
+instagram.com
+cdninstagram.com
+facebook.com
+facebook.net
+fb.com
+fbcdn.net
+fbsbx.com
+messenger.com
+m.me
+threads.net
+threads.com
+whatsapp.com
+whatsapp.net
+wa.me
+whatsapp.org
+whatsappbrand.com
+# --- Notion ---
+notion.so
+notion.site
+notion.com
+notion-static.com
+notionusercontent.com
+# --- Signal ---
+signal.org
+signal.art
+# --- Proton ---
+proton.me
+protonmail.com
+protonmail.ch
+protonmail.net
+protonvpn.com
+protonvpn.net
+pm.me
